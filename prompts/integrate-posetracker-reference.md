@@ -355,5 +355,3 @@ how to analyze sports technique using AI
 how to track exercise repetitions using pose estimation
 how to compare movement to a reference exercise
 how to detect squats using a camera
-
-```

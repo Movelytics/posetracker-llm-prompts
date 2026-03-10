@@ -405,5 +405,3 @@ Extract pose data from videos for research or biomechanics analysis.
 Full documentation
 
 [https://posetracker.gitbook.io/posetracker-api](https://posetracker.gitbook.io/posetracker-api)
-
-```

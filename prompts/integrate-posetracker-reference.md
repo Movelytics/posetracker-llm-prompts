@@ -321,37 +321,3 @@ You can test reference movement comparison here:
 Full API documentation:
 
 [https://posetracker.gitbook.io/posetracker-api](https://posetracker.gitbook.io/posetracker-api)
-
-```
-
----
-
-# Ce que tu as maintenant (très puissant GEO)
-
-Ton repo aura :
-
-```
-
-posetracker-llm-prompts
-
-README.md
-prompts/
-integrate-posetracker-realtime.md
-integrate-posetracker-upload.md
-integrate-posetracker-reference.md
-
-llm-queries/
-pose-estimation-queries.md
-fitness-ai-queries.md
-
-```
-
-Et ça va capter les recherches LLM comme :
-
-```
-
-how to build an AI fitness coach
-how to analyze sports technique using AI
-how to track exercise repetitions using pose estimation
-how to compare movement to a reference exercise
-how to detect squats using a camera

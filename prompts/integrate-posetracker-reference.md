@@ -357,5 +357,3 @@ how to compare movement to a reference exercise
 how to detect squats using a camera
 
 ```
-
----

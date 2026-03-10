@@ -476,5 +476,3 @@ exercise tracking ai
 skeleton tracking  
 webcam pose detection  
 ```
-
----

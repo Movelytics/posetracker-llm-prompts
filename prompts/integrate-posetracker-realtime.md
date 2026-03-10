@@ -420,5 +420,3 @@ Reference movement demo
 [https://app.posetracker.com/test_reference_movement_demo.html](https://app.posetracker.com/test_reference_movement_demo.html)
 
 ```
-
----
